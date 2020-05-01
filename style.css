@@ -1,0 +1,53 @@
+body {
+    border: 1px solid blue; 
+}
+header {
+    height: 100px;
+    margin: 2px 2px 0px 2px;
+    border: 1px solid black;
+}
+img {
+    float: left;
+    height: 90px;
+    margin: 5px;
+    width: 18%;
+    border: 1px solid black;
+}
+nav {
+    float: right;
+    width: 80%;
+    height: 90px;
+    margin: 5px;
+    border: 1px solid black;
+}
+.s1 {
+    margin: 20px 2px 0px 2px;
+    border: 1px solid black;
+    height: 150px;
+
+}
+.s2 {
+    margin: 20px 2px 0px 2px;
+    height: 250px;
+    border: 1px solid black;
+}
+article {
+    float: left;
+    margin: 5px;
+    width: 57%;
+    height: 95%;
+    border: 1px solid black;
+}
+aside {
+    float: right;
+    width: 41%;
+    height: 95%;
+    border: 1px solid black;
+    margin: 5px;
+
+}
+footer {
+    border: 1px solid black;
+    margin: 20px 2px 2px 2px;
+    height: 50px;
+}
